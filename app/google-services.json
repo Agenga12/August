@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "568821384711",
+    "project_id": "research1-47ee3",
+    "storage_bucket": "research1-47ee3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568821384711:android:d6dacbab331d10e84b0ca2",
+        "android_client_info": {
+          "package_name": "com.example.augustmoringnavigationapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDo6BGWNLEGlGhBQ-6NOfkc7ZYecdS6dFs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
